@@ -68,6 +68,8 @@ class Kristian:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=realanalysis123&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
 
+> 💡 If you have featured projects (e.g. GTWR Kalimantan, NeoJaundice), consider adding a "Pinned Projects" section below, either manually or via GitHub's *pin repository* feature.
+
 ---
 
 ### 📫 Let's Connect!
@@ -84,6 +86,7 @@ I am always open to discussions on data projects, machine learning collaboration
 </p>
 
 <div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
