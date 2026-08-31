@@ -38,7 +38,7 @@ I'm a **Statistics and Data Science student at IPB University**, deeply passiona
 I am always open to discussions on data projects, machine learning collaborations, or simply sharing ideas:
 
 * 💼 **LinkedIn:** [Kristian Aga Yudistira Laru](https://www.linkedin.com/in/kristian-aga-yudistira-laru-a9921b34a)
-* ✉️ **Email:** Feel free to reach out via LinkedIn message!
+* ✉️ **Email:** kristianaga@apps.ipb.ac.id
 
 ---
 
