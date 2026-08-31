@@ -24,9 +24,6 @@ class Kristian:
         self.university = "IPB University"
         self.interests = ["Data Science", "Predictive Modeling", "Spatial Econometrics"]
         self.currently_learning = "Machine Learning & Advanced Analytics"
-
-    def philosophy(self):
-        return "In God we trust, all others must bring data."
 ```
 
 ---
