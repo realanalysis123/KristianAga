@@ -12,7 +12,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
 I'm a **Statistics and Data Science student at IPB University**, deeply passionate about extracting insights from data and applying statistical rigor to solve real-world problems. My main interests lie in **Data Science, Advanced Data Analysis, and Predictive Modeling**.
 
@@ -28,7 +28,7 @@ class Kristian:
 
 ---
 
-### 🛠️ My Toolbox
+### My Toolbox
 
 
 <p align="center">
@@ -40,15 +40,15 @@ class Kristian:
 
 ---
 
-### ✨ What Drives Me
+### What Drives Me
 
-- 🎓 **IPB Excellence** — leveraging a strong mathematical and statistical foundation from IPB University
-- 🔍 **Data-Driven Curiosity** — a continuous drive to uncover patterns, solve complex problems, and communicate data storytelling clearly
-- 📐 **Statistical Rigor** — ensuring analytical models are robust, valid, and actionable
+-  **IPB Excellence** — leveraging a strong mathematical and statistical foundation from IPB University
+-  **Data-Driven Curiosity** — a continuous drive to uncover patterns, solve complex problems, and communicate data storytelling clearly
+-  **Statistical Rigor** — ensuring analytical models are robust, valid, and actionable
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=realanalysis123&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
@@ -62,7 +62,7 @@ class Kristian:
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 I am always open to discussions on data projects, machine learning collaborations, or simply sharing ideas:
 
