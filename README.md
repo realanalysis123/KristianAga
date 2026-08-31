@@ -89,7 +89,6 @@ I am always open to discussions on data projects, machine learning collaboration
 
 <div align="center">
 
-*"In God we trust, all others must bring data."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
