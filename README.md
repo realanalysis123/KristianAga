@@ -60,7 +60,7 @@ class Kristian:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kristianaga&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/realanalysis123&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianaga&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
