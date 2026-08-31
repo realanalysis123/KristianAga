@@ -1,55 +1,62 @@
-# Hi there, I'm [Your Name] 👋
+<!-- Replace this placeholder with image_0.png if you save it to your repo -->
+<img src="path/to/your/saved/image_0.png" width="100%" alt="GitHub Profile Header">
 
-🎓 **Statistics & Data Science Student at IPB University**  
-📊 Passionate about **Data Science**, **Data Analysis**, and finding meaningful insights hidden in data.
+# Hi there, I'm [Your Name]! 👋
 
----
+I'm a **Statistics and Data Science student at IPB University** (Bogor Agricultural University), deeply passionate about extracting insights from data and applying statistical rigor to solve real-world problems. My main interests lie in **Data Science, Advanced Data Analysis, and Statistical Modeling**.
 
-### 🚀 About Me
+### 🛠️ My Toolbox
 
-- 🏫 Studying **Statistics & Data Science** at IPB University, Indonesia.
-- 💡 Interested in: Data Analytics, Predictive Modeling, Machine Learning, and Data Visualization.
-- 🎯 Current Focus: Building end-to-end data projects and sharpening my machine learning skills.
-- 💬 Ask me about: **R, Python, Statistical Inference, and Data Storytelling**.
-- ⚡ Fun Fact: I turn raw numbers into actionable business insights (and coffee into code ☕).
+Here is a glimpse into the technologies and tools I frequently use:
 
----
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.r-project.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="48" height="48"/>
+      </a>
+      <br>R
+    </td>
+    <td align="center" width="96">
+      <a href="https://pandas.pydata.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
+      </a>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="48" height="48"/>
+      </a>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tidyverse.org/">
+        <img src="https://raw.githubusercontent.com/tidyverse/tidyverse/master/man/figures/logo.png" alt="Tidyverse" width="48" height="48"/>
+      </a>
+      <br>Tidyverse
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Tools
+### 🌟 What Drives Me
 
-**Languages & Analytics**
-- Python | R | SQL
+*   **IPB University Excellence:** Levering the strong analytical and analytical foundation from Indonesia's leading agricultural university.
+*   **Data-Driven Curiosity:** A natural urge to explore data, identify patterns, and visualize stories that drive decisions.
+*   **Statistical Precision:** Ensuring the analyses are robust, valid, and mathematically sound.
 
-**Data Tools & Frameworks**
-- Pandas | NumPy | Scikit-Learn | Matplotlib | Seaborn | Tidyverse
+### 📫 Let's Connect!
 
-**Visualization & Tools**
-- Tableau | Power BI | Git | GitHub | Jupyter Notebooks
+I am always open to discussions on data projects, collaborations, or simply sharing ideas:
 
----
+*   **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kristian-aga-yudistira-laru-a9921b34a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+*   **GitHub:** You're already here!
 
-### 📈 GitHub Stats
+***
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"In God we trust, all others must bring data." — W. Edwards Deming</i>
-</p>
+Remember to replace `[Your Name]` and `[Your LinkedIn Profile]` with your actual information.
