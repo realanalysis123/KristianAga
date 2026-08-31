@@ -10,9 +10,9 @@
 
 ---
 
-### 🌟 Tentang Saya
+### 🌟 About Me
 
-Saya seorang **mahasiswa Statistika dan Sains Data di IPB University**, dengan minat mendalam pada eksplorasi data dan penerapan rigor statistik untuk memecahkan masalah dunia nyata. Fokus utama saya ada pada **Data Science, Analisis Data Lanjutan, dan Predictive Modeling**.
+I am a **Statistics and Data Science student at IPB University**, deeply passionate about data exploration and applying statistical rigor to solve real-world problems. My primary focus lies in **Data Science, Advanced Data Analysis, and Predictive Modeling**.
 
 ```python
 class Kristian:
@@ -25,70 +25,3 @@ class Kristian:
 
     def philosophy(self):
         return "In God we trust, all others must bring data."
-```
-
----
-
-### 🛠️ Toolbox Saya
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="55" height="55"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-### ✨ Apa yang Mendorong Saya
-
-- 🎓 **IPB Excellence** — memanfaatkan fondasi matematika dan statistika yang kuat dari IPB University
-- 🔍 **Data-Driven Curiosity** — dorongan berkelanjutan untuk menemukan pola, memecahkan masalah kompleks, dan menceritakan data dengan jelas
-- 📐 **Statistical Rigor** — memastikan model analitis yang robust, valid, dan actionable
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=https://github.com/realanalysis123&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianaga&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristianaga&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
-
-> ⚠️ **Catatan:** Ganti `kristianaga` pada URL di atas dengan **username GitHub kamu yang sebenarnya** agar statistik menampilkan data akun kamu. Jika ada karya/proyek unggulan (mis. GTWR Kalimantan, NeoJaundice), pertimbangkan menambahkan bagian "Pinned Projects" di bawah ini secara manual atau lewat fitur *pin repository* GitHub.
-
----
-
-### 📫 Mari Terhubung!
-
-Saya selalu terbuka untuk diskusi seputar proyek data, kolaborasi machine learning, atau sekadar berbagi ide:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kristian-aga-yudistira-laru-a9921b34a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kristianaga@apps.ipb.ac.id">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center">
-
-*"In God we trust, all others must bring data."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
