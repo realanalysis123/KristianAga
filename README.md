@@ -33,7 +33,7 @@ Here is a glimpse into the technologies and tools I frequently use:
       <a href="https://scikit-learn.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="48" height="48"/>
       </a>
-
+<a>
 ### What Drives Me
 
 *   **IPB University Excellence:** Levering the strong analytical and analytical foundation from Indonesia's leading agricultural university.
