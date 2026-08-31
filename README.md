@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/realanalysis123">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hi+there%2C+I'm+Kristian!+%F0%9F%91%8B;Kristian+Aga+Yudistira+Laru;Statistics+%26+Data+Science;IPB+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=2ECC71&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hi+there%2C+I'm+Kristian!+%F0%9F%91%8B;Statistics+%26+Data+Science;IPB+University" alt="Typing SVG" />
 </a>
 
 </div>
