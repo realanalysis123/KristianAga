@@ -20,18 +20,6 @@ I'm a **Statistics and Data Science student at IPB University**, deeply passiona
       </a>
       <br><b>R</b>
     </td>
-    <td align="center" width="100">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-      </a>
-      <br><b>Pandas</b>
-    </td>
-    <td align="center" width="100">
-      <a href="https://scikit-learn.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="48" height="48"/>
-      </a>
-      <br><b>Scikit-Learn</b>
-    </td>
   </tr>
 </table>
 
