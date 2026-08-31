@@ -54,7 +54,7 @@ Here is a glimpse into the technologies and tools I frequently use:
 
 I am always open to discussions on data projects, collaborations, or simply sharing ideas:
 
-*   **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kristian-aga-yudistira-laru-a9921b34a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+*   **LinkedIn:** [Kristian Aga Yudistira Laru]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kristian-aga-yudistira-laru-a9921b34a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 *   **GitHub:** You're already here!
 
 ***
